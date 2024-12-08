@@ -582,7 +582,10 @@ i {
 
 @media screen and (max-width: 576px) {
   .interval img {
-    width: 80px !important;
+    width: 30px !important;
+  }
+  .interval {
+    gap: 10px !important;
   }
 }
 
